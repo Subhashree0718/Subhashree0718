@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫About Me:
 I'm a passionate B.Tech CSBS student and an aspiring Software Developer. I love building real-world projects that solve meaningful problems, especially using Java, Python, AI/ML, and full-stack development.<br><br>What I Do<br><br>Build AI-driven applications (face recognition, voice assistants, analytics).<br>Develop web apps and Mobile apps.<br>Design clean UI/UX prototypes in Figma.<br><br>What I'm Working On<br>Exploring trending areas like Agentic AI, Physical AI, and Smart Analytics.<br><br>Highlights<br><br>Built the official website for Altruisty during my internship.<br>Participated and delivered strong results in hackathons & competitions.<br>Strong foundation in problem-solving, algorithms, and real-world project development.<br><br><br>Currently Learning<br><br>Advanced Java DSA<br>System design & scalable app architecture
 
 
