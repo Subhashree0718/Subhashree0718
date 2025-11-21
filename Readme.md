@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Subhashree B</h1>
+<h1 align="center">Hi, I'm Subhashree B</h1>
 <h3 align="center">Aspiring Software Developer | CSBS Student | AI/ML & Full-Stack Enthusiast</h3>
 
 ---
